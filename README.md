@@ -2,7 +2,7 @@
 - 👀 I’m interested in web sockets (they're black magic)...
 - 🌱 I’m currently learning clusterized optimization!
 - 💞️ I’m looking to collaborate on game / game engines with oddly real world applications.
-- 📫 How to reach me: here on the hub!
+- 📫 How to reach me: git.joejak93@gmail.com
 
 <!---
 joejak/joejak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
