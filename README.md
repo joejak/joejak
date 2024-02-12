@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joejak
-- 👀 I’m interested in web sockets (they're black magic)...
+- 👀 I’m interested
 - 🌱 I’m currently learning clusterized optimization!
 - 💞️ I’m looking to collaborate on game / game engines with oddly real world applications.
 - 📫 How to reach me: git.joejak93@gmail.com
