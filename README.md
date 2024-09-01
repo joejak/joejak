@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joejak
 - 👀 I’m interested
-- 🌱 I’m currently learning clusterized optimization!
-- 💞️ I’m looking to collaborate on game / game engines with oddly real world applications.
+- 🌱 I’m learning
+- ☕ I'm caffinated
 - 📫 How to reach me: git.joejak93@gmail.com
 
 <!---
